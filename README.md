@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dhank2019
-- 👀 I’m interested in web desgning,python and c++.
+- 👀 I’m interested in web designing,python and c++.
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Web Designing
 - 📫 How to reach me dhanraj.kumawat019@gmail.com
